@@ -4,7 +4,6 @@
 
 **Course:** Digital Logic Design | **Class:** BESE-16-A  
 **Institution:** NUST — School of Electrical Engineering and Computer Sciences  
-**Date:** 07/05/2025
 
 ---
 
