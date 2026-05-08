@@ -129,10 +129,10 @@ Simulation confirmed:
 
 ## References
 
-1. NE555 / LM555 Timer Datasheet — Texas Instruments
-2. CD4017B Decade Counter Datasheet — Texas Instruments
-3. SN74LS47 BCD-to-Seven-Segment Decoder Datasheet — Texas Instruments
-4. 1N4148 Signal Diode Datasheet — Fairchild Semiconductor
+1. NE555 / LM555 Timer Datasheet — https://www.ti.com/lit/ds/symlink/ne555.pdf
+2. CD4017B Decade Counter Datasheet — https://www.ti.com/product/CD4017B
+3. SN74LS47 BCD-to-Seven-Segment Decoder Datasheet — https://www.ti.com/product/SN74LS47
+4. 1N4148 Signal Diode Datasheet — https://www.alldatasheet.com/datasheet-pdf/pdf/51381/FAIRCHILD/1N4148.html
 5. [Electronics Tutorials — 7-Segment Display Counter](https://www.electronics-tutorials.ws)
 6. [555 Timer Astable Calculator](https://www.555-timer-circuits.com)
-7. Proteus Design Suite — Labcenter Electronics
+7. Proteus Design Suite — https://www.labcenter.com/
