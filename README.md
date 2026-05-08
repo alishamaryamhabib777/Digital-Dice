@@ -2,9 +2,9 @@
 
 > A microcontroller-free digital dice simulator using a 555 Timer, 4017 Decade Counter, and 74LS47 BCD Decoder, built and simulated in Proteus.
 
-**Course:** Digital Logic Design | **Class:** BSCS-14-D  
+**Course:** Digital Logic Design | **Class:** BESE-16-A  
 **Institution:** NUST — School of Electrical Engineering and Computer Sciences  
-**Lab Engineer:** Maam Rafia Ahmad | **Date:** 18/05/2025
+**Date:** 07/05/2025
 
 ---
 
